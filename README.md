@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/startupsorocaba/startups-4.0/raw/master/startups-4.0.svg?sanitize=true" alt="liven" width="480" height="270" />
+	<img src="https://github.com/startupsorocaba/startups-4.0/raw/master/startups-4.0.svg?sanitize=true" alt="Startups 4.0" width="480" height="270" />
 </div>
 
 <div align="center">
